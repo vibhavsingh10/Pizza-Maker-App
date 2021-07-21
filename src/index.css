@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("./store/piZZa.jpg");
+  background-size: 1500px;
+  
+}
+.display-1{
+  background-color:	 cyan;
+}
+
+#root {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate3d(-50%, -50%, 0)
+}
+.vib{
+  size: 100px;
+  background-color: cyan;
+}
